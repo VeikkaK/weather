@@ -1,4 +1,4 @@
-This is a simple web application built using React that allows users to check the local weather. It utilizes an API key to fetch weather data and displays it in a user-friendly format. With this app, users can stay informed about the current weather conditions in their area.
+This is my simple web application built using React that allows users to check the local weather. It utilizes an API key to fetch weather data and displays it in a user-friendly format. With this app, users can stay informed about the current weather conditions in their area.
 
 - Display of current weather information
 - Dynamic updating of weather data based on user's location
